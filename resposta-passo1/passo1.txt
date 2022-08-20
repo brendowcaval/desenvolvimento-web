@@ -1,0 +1,18 @@
+O que é doctype e porque o adicionamos?
+
+Resposta :
+     
+ Não é uma tag HTML, é basicamente informando o tipo de documento que é o HTML 5 para o browser.
+ Ela é a primeira linha do código que deve ser escrita em todo documento HTML or XHTML. Essa versão
+ surgiu em 2014 e trouxe obviamente bastante melhorias das versões anteriores, fornece o suporte de 
+ áudio e vídeo em alto nível, algo que não existia nas versões anteriores.
+
+ estrutura básica da linguagem na versão 5 é nesse sentido :
+  <!DOCTYPE html>
+     <html>
+      <head>
+     </head>
+      <body>
+     </body>
+    </html>
+ 
